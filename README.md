@@ -87,9 +87,9 @@ A dynamic movie discovery and curation web application that enables users to bro
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** Coming soon
-* **Email:** Coming soon
-* **Portfolio:** Coming soon
+* **LinkedIn:** [linkedin.com/in/wisnutri-andika](https://www.linkedin.com/in/wisnutri-andika)
+* **Email:** [wisnutri690@gmail.com](mailto:wisnutri690@gmail.com)
+* **Portfolio:** `Coming soon`
 
 ---
 

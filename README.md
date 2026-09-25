@@ -75,13 +75,15 @@ A dynamic movie discovery and curation web application that enables users to bro
 
 ---
 
-## 📊 GitHub Stats
+## 🟡 Pac-Man Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wisnutri690&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wisnu's GitHub Stats" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisnutri690&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Wisnutri690/Wisnutri690/output/pacman-contribution-graph.svg"
+    alt="Pac-Man contribution graph"
+    width="100%"
+  />
+</p>
 
 ---
 

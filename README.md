@@ -79,7 +79,7 @@ A dynamic movie discovery and curation web application that enables users to bro
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Wisnutri690/Wisnutri690/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/Wisnutri690/Wisnutri690/output/pacman-contribution-graph-dark.svg"
     alt="Pac-Man contribution graph"
     width="100%"
   />
